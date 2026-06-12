@@ -2,14 +2,24 @@
 
 Infrastructure, security and operational IT documentation.
 
-## Available Documents
+## Topics
 
-- M365 Hardening Checklist
-- Backup Strategy
-- Incident Response Checklist
-- User Onboarding Procedure
-- Security Baseline Documentation
+### Infrastructure
+- Network diagrams
+- Server inventory
+- Device inventory
 
-## Purpose
+### Security
+- Access reviews
+- Backup procedures
+- Security standards
 
-This repository contains operational and security documentation related to Microsoft 365, infrastructure, networking and cybersecurity.
+### Operations
+- Incident response
+- Change management
+- User onboarding
+
+### Business Continuity
+- Backup validation
+- Recovery procedures
+- Disaster recovery planning
